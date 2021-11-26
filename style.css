@@ -8,7 +8,10 @@ nav{
     height: 50px;
     background-color: blueviolet;
     display: flex;
-    
+    justify-content: space-between;
+    padding: 0 5%;
+    align-items: center;
+
 
 
 }
