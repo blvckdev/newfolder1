@@ -12,6 +12,11 @@ nav{
     padding: 0 5%;
     align-items: center;
 
-
-
+}
+nav ul{
+    width: 40%;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
 }
